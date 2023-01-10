@@ -1,2 +1,2 @@
 # ML_Cardiovascular-Disease-Prediction-
-Machine Learning Course End Project
+Course End Project - Machine Learning from Purdue University with Simplilearn
