@@ -3,7 +3,7 @@
 #### Course-End Project: Healthcare
 
 #### Problem statement:
-Cardiovascular diseases are the leading cause of death globally. It is therefore necessary to identify the causes and develop a system to predict heart attacks in an effective manner. 
+Cardiovascular disease are the leading cause of death globally. It is therefore necessary to identify the causes and develop a system to predict heart attacks in an effective manner. 
 
 #### Task to be performed:
 
